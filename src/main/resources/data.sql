@@ -1,0 +1,1 @@
+insert into products(`id`,`price`,`product_name`,`quantity`,`remarks`) VALUES (1,500,'Keyboard',200,'');
